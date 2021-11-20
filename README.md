@@ -3,7 +3,7 @@
 - 👀 I’m interested in systems programming, graphics and game development
 - 🌱 I’m currently learning [Rust <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="16">](https://www.rust-lang.org/) 
 - 📝 Check out my [blog](https://www.alexvia.com/)
-- 📫 How to reach me: send me an [email](mailto:alexviacoll@gmail.com)
+- 📫 Send me an [email](mailto:alexviacoll@gmail.com)
 
 <!--- Enable this at some point
 [![Alex Via's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexViaColl)](https://github.com/AlexViaColl/github-readme-stats)
