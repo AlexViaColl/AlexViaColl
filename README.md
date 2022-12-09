@@ -1,5 +1,5 @@
 # Hi there, I am Alex Via 👋
-- :telescope: I'm currently working as a Software Engineer at [Oracle NetSuite](https://www.netsuite.com/)
+- :telescope: I'm currently working as a Software Development Engineer at Amazon
 - 👀 I’m interested in systems programming, graphics and game development
 - 🌱 I’m currently learning [Rust <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="16">](https://www.rust-lang.org/)
 - 🎥 I stream on [twitch](https://www.twitch.tv/alex86_64)
